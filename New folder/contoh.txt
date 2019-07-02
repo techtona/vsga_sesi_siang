@@ -1,0 +1,28 @@
+WEB SERVER:
+1. APACHE
+2. NGINX
+3. LIGHT HTTPD
+.....
+
+PROTOKOL
+    HTTP            => PORT:80
+    HTTPS => SECURE => PORT:443
+        .> ENKRIPSI
+
+    DOCUMENT ROOT
+
+DBMS:
+
+SQL                     NoSQL
+terstruktur             tidak terstruktur 
+---------------------------------------
+1. MYSQL                1.MongoDB
+2. POSGREE SQL          2.IndexedDB
+3. MSSQL SERVER
+4. SQLITE
+
+
+BE dan FE
+----------------------------------------
+
+PHP => BE
